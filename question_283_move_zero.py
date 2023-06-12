@@ -3,7 +3,7 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        count=0;
+        count=0
         i = 0
         lenght = len(nums)
         while i < lenght:
